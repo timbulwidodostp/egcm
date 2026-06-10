@@ -1,6 +1,8 @@
 # egcm
 Simplified Engle-Granger Cointegration Model Use egcm With (In) R Software
 
+https://www.youtube.com/watch?v=X37xWJdnQzQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
